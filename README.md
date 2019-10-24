@@ -4,4 +4,4 @@ development branch - first commit
 
 Edited on remote repo
 
-Pull example
+Pull example - edited
